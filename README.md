@@ -14,7 +14,7 @@ Simple dashboard example for displaying measurements received from the data API 
 - `static/main.js` - dashboard data handling
 
 ## Preview
-![Dashboard preview](static/dashboard.png)
+![Dashboard preview](dashboard.png)
 
 ## Notes
 Designed for a cheap yellow display 240x320 
