@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.dashboard {
+  width: 240px;
+  height: 320px;
+  padding: 12px;
+  border: 1px solid #000;
+}
+
+h1 {
+  margin: 0 0 16px;
+  font-size: 24px;
+}
+
+.reading {
+  margin-bottom: 16px;
+}
+
+h2,
+.reading p {
+  margin: 0 0 6px;
+}
